@@ -20,6 +20,7 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="React.js" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50">
   <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="50">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
