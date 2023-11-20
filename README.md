@@ -1,16 +1,71 @@
-### Hi there 👋
+<!-- Header Section -->
 
-<!--
-**Unshack/Unshack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Hi , Am Wabweni Brian</b><img 
+<p align='center'>
+  <p align="center">
+  <img src="115115387-modified.png" alt="Wabweni Brian" width="80" >
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Wabweni+Brian;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile. I'm a passionate developer and designer with expertise in a variety of technologies and skills. Let me show you what I can do:
+
+<!-- Skills Section -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<div align="center" style="padding: 16px; border: 1px solid #1a1a1a; border-radius: 20px; margin:20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50">
+  <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="50">
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50">
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="50">
+  <img src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png" alt="Adobe XD" width="50">
+  <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="50">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</div>
+
+</p>
+
+<!-- What I Do Section -->
+## What I Can Do
+- Develop interactive and responsive web applications.
+- Design beautiful and user-friendly UI/UX experiences.
+- Create robust and scalable backends with Node.js, Express.js, and MongoDB.
+- Craft elegant and efficient PHP and Laravel solutions.
+- Manage relational databases like MySQL and write efficient SQL queries.
+- Collaborate with design tools like Figma and Adobe XD.
+- Utilize Firebase for real-time applications.
+
+<!-- Contact Section -->
+## Contact Me
+- 📧 Email: [wabwenib66@gmail.com](mailto:wabwenib66@gmail.com)
+- 🌐 Portfolio: [www.wabwenibrian.live](https://www.wabwenibrian.live/)
+- 🌐 LinkedIn: [Wabweni Brian](https://www.linkedin.com/in/wabweni-brian-631079247/)
+- 🌐 Facebook: [Brian Wabweni](https://www.facebook.com/brian.wabweni)
+- 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
+- 🏡 Location: Uganda, Kampala
+
+<p align="left">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1ODIxLzc2NTgwOC5naWY=/347x500/xIcN7/.gif" alt="Loading gif" style="width:100%;" />
+</p>
+
+## GitHub Statistics
+<p align="center">
+  <img src="https://img.shields.io/github/followers/WabweniBrian?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/WabweniBrian?label=Stars&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/WabweniBrian/your-repo-name?label=Last%20Commit&style=for-the-badge">
+</p>
+
+<div style="display:grid;align-items:center;justify-content:center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
+</div>
