@@ -5,7 +5,7 @@
   <p align="center">
  
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Marck+Frience+Coto;I+am...;A+self-motivated+Frontend+Web+Developer;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Marck+Frience+Coto;I+am...;A+self-motivated+Frontend+Web+Developer;Self-taught+frontend+backend+developer;I+like+coding+alot+😍+!;Hire+Me+Now!" alt="Typing SVG" /></a>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
