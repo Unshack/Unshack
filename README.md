@@ -5,7 +5,7 @@
   <p align="center">
  
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Wabweni+Brian;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Marck+Frience+Coto;I+am...;A+self-motivated+Frontend+Web+Developer;Self-taught+frontend+backend+developer;I+like+gaming+alot+😀+!" alt="Typing SVG" /></a>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -19,11 +19,8 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 <div align="center" style="padding: 16px; border: 1px solid #1a1a1a; border-radius: 20px; margin:20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50">
   <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="50">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="50">
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50">
   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="50">
@@ -46,21 +43,9 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 
 <!-- Contact Section -->
 ## Contact Me
-- 📧 Email: [wabwenib66@gmail.com](mailto:wabwenib66@gmail.com)
-- 🌐 Portfolio: [www.wabwenibrian.live](https://www.wabwenibrian.live/)
-- 🌐 LinkedIn: [Wabweni Brian](https://www.linkedin.com/in/wabweni-brian-631079247/)
-- 🌐 Facebook: [Brian Wabweni](https://www.facebook.com/brian.wabweni)
-- 🌐 Another Website: [wabtech.tech](https://www.wabtech.tech)
-- 🏡 Location: Uganda, Kampala
+- 📧 Email: [marckfriencecoto30@gmail.com](mailto:marckfriencecoto30@gmail.com)
+- 🌐 Portfolio: [www.marckfriencecoto.live](https://main--marckodevportfolio.netlify.app/)
+- 🌐 LinkedIn: [Marck Frience Coto](https://github.com/Unshack)
+- 🌐 Facebook: [Marck Frience Coto](https://www.facebook.com/marckfrience)
+- 🏡 Location: Libona, Bukidnon, Philippines
   
-## GitHub Statistics
-<p align="center">
-  <img src="https://img.shields.io/github/followers/WabweniBrian?label=Followers&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/WabweniBrian?label=Stars&style=for-the-badge">
-  <img src="https://img.shields.io/github/last-commit/WabweniBrian/your-repo-name?label=Last%20Commit&style=for-the-badge">
-</p>
-
-<div style="display:grid;align-items:center;justify-content:center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WabweniBrian&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WabweniBrian&layout=compact&theme=gotham&langs_count=8"/>
-</div>
