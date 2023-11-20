@@ -40,7 +40,6 @@ Welcome to my GitHub profile. I'm a passionate developer and designer with exper
 - Develop interactive and responsive web applications.
 - Design beautiful and user-friendly UI/UX experiences.
 - Create robust and scalable backends with Node.js, Express.js, and MongoDB.
-- Craft elegant and efficient PHP and Laravel solutions.
 - Manage relational databases like MySQL and write efficient SQL queries.
 - Collaborate with design tools like Figma and Adobe XD.
 - Utilize Firebase for real-time applications.
