@@ -11,7 +11,7 @@ Talking about Personal Stuffs:
 
 - I am a rich, experienced frontend web developer for large projects and am ready to start your project anytime
 - Enterprise application development and support
-- <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
+- <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap 
 - <b>Back-end</b> : Node | Express | PHP 
 - <b>Mobile</b> : React-Native | Flutter 
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
