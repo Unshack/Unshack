@@ -111,7 +111,7 @@ Talking about Personal Stuffs:
     <img align="right" src="https://img.shields.io/github/followers/Unshack?label=Follow&style=social" />
 </div>
 <h1 align="center"></h1>
- <img src="https://image.shutterstock.com/image-vector/cat-icon-flat-style-github-260nw-2298971193.jpg" title="Git" width="100" alt="Git">
+ <img src="https://img.icons8.com/?size=80&id=LoL4bFzqmAa0&format=png" title="Git" width="100" alt="Git">
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
