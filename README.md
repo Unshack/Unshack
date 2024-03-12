@@ -39,7 +39,7 @@ Talking about Personal Stuffs:
     <img align="right" src="https://img.shields.io/github/followers/Unshack?label=Follow&style=social" />
 </div>
 <h1 align="center"></h1>
- <img width="100%" src="https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png" /> 
+ <img width="100%" src="https://img.icons8.com/nolan/2x/github.png" /> 
 <h1 align="center"></h1>
 </br>
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
