@@ -1,4 +1,5 @@
 
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Unshack&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
@@ -19,6 +20,7 @@ Talking about Personal Stuffs:
 - Git, Github, BitBucket, Amazon Web Services, Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
+
 <div align="center">
     
 ### GitHub Contributions
@@ -32,16 +34,19 @@ Talking about Personal Stuffs:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unshack&layout=compact&theme=ayu-mirage&langs_count=8)
 
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+
 
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Unshack.Unshack" />
     <img align="right" src="https://img.shields.io/github/followers/Unshack?label=Follow&style=social" />
 </div>
-<h1 align="center"></h1>
- <img width="100%" src="[https://activity-graph.herokuapp.com/graph?username=marckfeu&theme=github&count_private=true](https://brandeps.com/logo-download/G/GitHub-Icon-logo-vector-01.svg)" /> 
-<h1 align="center"></h1>
 </br>
+
+<div align="center">
+    
+![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+
+
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
     <tr>
