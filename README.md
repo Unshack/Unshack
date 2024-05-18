@@ -66,6 +66,8 @@ Talking about Personal Stuffs:
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
         <td><img width="100" height="80" src="https://img.icons8.com/offices/80/php-logo.png" alt="php-logo"/></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
+        <td><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png" alt="external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo"/>
+</td>
     </tr>
     <tr>
         <td><img src="https://img.icons8.com/nolan/2x/github.png" title="Git" width="100" alt="Git"></td>
