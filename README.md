@@ -13,7 +13,7 @@ Talking about Personal Stuffs:
 - I am a rich and experienced frontend web developer for large projects, and I am ready to start your project anytime
 - Enterprise application development and support
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap 
-- <b>Back-end</b> : Node | Express 
+- <b>Back-end</b> : Node | Express | Laravel (PHP)
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
 - <b>Others</b> : Docker | Docker-Compose 
 - Git, Github, BitBucket, Amazon Web Services, Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
