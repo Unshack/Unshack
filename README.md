@@ -64,6 +64,7 @@ Talking about Personal Stuffs:
         <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="Graphql" width="100" alt="Graphql"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" width="100" alt="MongoDB"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" title="MySQL" width="100" alt="MySQL"></td>
+        <td><img src="https://img.icons8.com/color/2x/php.png" title="PHP" width="100" alt="PHP"></td>
         <td><img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" width="100" alt="PostgreSQL"></td>
     </tr>
     <tr>
