@@ -43,7 +43,7 @@ Talking about Personal Stuffs:
 
 <div align="center">
     
-![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
